@@ -91,12 +91,12 @@ body {
   text-align: center;
 }
 
-.container:hover .middle {
+.item:hover .middle {
   opacity: 1;
 }
 
-.container:hover .gallery-items .item .img {
-  opacity: 0.3;
+.item:hover .image {
+	opacity: 0.3;
 }
 
 .tabela-info h3 {
