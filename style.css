@@ -107,6 +107,8 @@ body {
 .tabela-info p {
   color: black;
   font-size: 18px;
+  padding-top: 16px;
+  padding-bottom: 16px;
 }
 
 .tabela-info a {
@@ -117,3 +119,4 @@ body {
   padding: 8px 20px;
   border-radius: 5px;
 }
+
